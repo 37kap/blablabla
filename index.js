@@ -1,3 +1,3 @@
-const deleteRedundantFiles = require('./services/removerRedundantFiles')
+const fileService = require('./services/removerRedundantFiles');
 
-deleteRedundantFiles();
+fileService.deleteRedundantFiles();
