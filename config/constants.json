@@ -1,0 +1,7 @@
+{
+    "ignoredFiles": [
+        "README.md"
+    ],
+    "getEcgRecordsQuery": "SELECT ecg_record FROM schema.training",
+    "uploadsFolder": "./uploads/"
+}

@@ -1,0 +1,16 @@
+{
+  "host": "neurotest.neurosoft.ru",
+  "mysql": {
+    "client": "mysql2",
+    "connection": {
+      "host": "localhost",
+      "user": "sa",
+      "password": "1111",
+      "database": "schema",
+      "timezone": "UTC",
+      "dateStrings": [
+        "DATE"
+      ]
+    }
+  }
+}
